@@ -6,3 +6,5 @@ openpyxl
 matplotlib
 wrds
 sqlalchemy
+jupyter
+notebook
